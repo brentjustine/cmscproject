@@ -1,0 +1,14 @@
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\bin\Debug\net8.0\QuickSort-C#.exe
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\bin\Debug\net8.0\QuickSort-C#.deps.json
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\bin\Debug\net8.0\QuickSort-C#.runtimeconfig.json
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\bin\Debug\net8.0\QuickSort-C#.dll
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\bin\Debug\net8.0\QuickSort-C#.pdb
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.AssemblyInfoInputs.cache
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.AssemblyInfo.cs
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.csproj.CoreCompileInputs.cache
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.dll
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\refint\QuickSort-C#.dll
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.pdb
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\QuickSort-C#.genruntimeconfig.cache
+C:\Users\brent justine\Documents\cmsc\QuickSort-C#\QuickSort-C#\obj\Debug\net8.0\ref\QuickSort-C#.dll
